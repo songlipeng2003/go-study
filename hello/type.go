@@ -1,5 +1,5 @@
 // 使用整数
-package main
+package hello
 
 import "fmt"
 
